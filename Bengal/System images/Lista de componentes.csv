@@ -1,0 +1,13 @@
+﻿Nome da variável;Quantidade;Componente
+U7;1; Arduino Uno R3
+DIST1, DIST2;2; Sensor de distância ultrassônico
+PIEZO1;1; Piezo
+R2;1;1 kΩ Resistor
+BAT1;1; Bateria 9V
+Parts;;Impressões 3D
+;;
+;;
+;;
+;;
+;;
+;;
